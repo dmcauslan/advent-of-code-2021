@@ -8,6 +8,7 @@ authors = ["dmcauslan"]
 [tool.poetry.dependencies]
 python = "^3.9"
 jupyter = "^1.0.0"
+treelib = "^1.6.1"
 
 [tool.poetry.dev-dependencies]
 
